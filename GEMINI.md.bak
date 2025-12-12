@@ -1,27 +1,31 @@
 # GEMINI.md: Digital Economy Exam Response Framework (Concise Edition)
 
 ## 1. Exam Response Strategy (应试答题策略)
-To ensure high scores and memorability, responses must adhere to the **"Compact Four-Step Logic" (定性-构成-机制-导向)**. This structure ensures all key scoring points are hit within a concise word limit (~400 words).
+To ensure high scores and memorability, responses must adhere to the **"Compact Four-Step Logic Chain" (定性-构成-机制-导向 逻辑链)**. The goal is to present a cohesive narrative where each step naturally flows into the next.
 
 ## 2. The 4-Step Template (4步速记模版)
 
 ### Step 1: Definition & Status (定性与地位)
-*   **Role**: Define the concept and its strategic status in one sentence.
+*   **Role**: Define the concept and its strategic status.
+*   **Link**: Start with "As the [Status] of [Context]..."
 *   **Keywords**: "Fundamental basis", "Core engine", "Structural transformation", "Four beams and eight columns".
 *   **Action**: Directly define the subject using `full.md` terminology.
 
 ### Step 2: Core Components/Characteristics (内涵与构成)
 *   **Role**: List the specific classifications or key features.
+*   **Link**: "This concept is concretely manifested in/composed of..."
 *   **Keywords**: "Encompasses...", "Characterized by...", "Divided into...".
 *   **Action**: Enumerate key elements (e.g., "Industry Substitution, Skill Mismatch"). **Must cover all sub-points from text.**
 
 ### Step 3: Operational Mechanism (运行机制)
 *   **Role**: Explain the theoretical logic or economic principle.
+*   **Link**: "These components operate through the mechanism of..." or "Underlying this is..."
 *   **Keywords**: "Via mechanism of...", "Substitution vs. Complementarity", "Cost reduction", "Efficiency enhancement".
 *   **Action**: Use economic theory to explain *how* it works (e.g., Task-Biased Technological Change).
 
 ### Step 4: Policy/Strategic Implication (影响与导向)
 *   **Role**: Conclude with the macro impact or required policy response.
+*   **Link**: "Consequently, this leads to... necessitating..."
 *   **Keywords**: "Inequality risk", "High-quality development", "Policy imperative".
 *   **Action**: Link to national goals (Common Prosperity, Security) or negative consequences needing mitigation.
 
@@ -30,6 +34,7 @@ To ensure high scores and memorability, responses must adhere to the **"Compact 
 2.  **No Metaphors**: Use professional terminology only (e.g., use "Factor input" not "Fuel").
 3.  **Citation**: Mark the source chapter/file for key points `[Source: ChX/LineY]`.
 4.  **Completeness**: Check against `full.md` to ensure no "causes" or "effects" are missed.
+5.  **Logical Coherence (逻辑衔接)**: **CRITICAL**. You must use transitional phrases. The response should read as a continuous argument. Step 1 (What is it?) $\rightarrow$ Step 2 (What does it look like?) $\rightarrow$ Step 3 (How does it work?) $\rightarrow$ Step 4 (So what?). Do not just list 4 disconnected bullet points.
 
 ## 4. Demo: Application to "Impact on Employment Structure"
 
