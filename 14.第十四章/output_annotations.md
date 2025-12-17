@@ -1,135 +1,236 @@
-### **第一页 (page_idx: 0)**
+# Chapter 14: Digital Economy and High-Quality Development - Annotation Report
 
-#### **原文段落：章前导语**
-> 大力发展数字经济是把握科技革命机遇的战略抉择，是构建国家竞争新优势的关键支撑，是中国经济高质量发展的重要动能，是推动中国式现代化的重要引擎。因此，科学认识数字经济赋能高质量发展的理论逻辑、重点任务和中国实践经验，有助于深刻认识数字经济发展的重大战略意义，推进经济高质量发展，助力实现中国式现代化。
+## Section: 章前导语 (Chapter Introduction)
 
-*   **1. 标注点**: `战略抉择...关键支撑...重要动能...重要引擎`
-    *   **key_term_definition**: 这四个并列的短语高度概括了数字经济在中国发展战略中的“四重定位”，明确了其在科技、竞争、经济增长和现代化进程中的核心地位。
-*   **2. 标注点**: `科学认识...理论逻辑、重点任务和中国实践经验`
-    *   **critical_insight**: 这句话揭示了本章的学习路径，即从理论（是什么/为什么）到实践（做什么/怎么做），体现了理论与实际相结合的马克思主义认识论。
-*   **3. 标注点**: `中国式现代化`
-    *   **cross_reference**: 此处提及的“中国式现代化”是党的二十大报告的核心概念之一，将数字经济与国家顶层政治设计紧密相连，暗示了数字经济是实现该目标的关键工具。
+### [Unit ID: Intro-01]
+> 大力发展数字经济是把握科技革命机遇的战略抉择...
 
-#### **原文段落：学习目标**
-> 掌握数字经济赋能高质量发展的内涵；掌握数字经济赋能高质量发展的理论逻辑；掌握数字经济赋能高质量发展的重点任务；掌握中国数字经济赋能高质量发展的政策。
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **高质量发展 (High-Quality Development)**: An economic development model characterized by innovation, coordination, greenness, openness, and sharing, moving away from high-speed growth to high-efficiency and sustainable growth.
+    * `key_term_definition`: **中国式现代化 (Chinese Path to Modernization)**: A socialist modernization model with Chinese characteristics, emphasizing common prosperity, material and cultural-ethical advancement, harmony between humanity and nature, and peaceful development.
+* **Expert B (Pedagogue)**
+    * `concept_clarification`: Think of the "Digital Economy" as a new "engine" installed in the vehicle of the Chinese economy. The goal isn't just to drive faster (speed), but to drive smoother, cleaner, and more efficiently (quality) towards the destination of "Modernization."
+* **Expert C (Critical Thinker)**
+    * `critical_insight`: The text establishes a direct causality: Digital Economy -> High-Quality Development -> Chinese Modernization. It frames digital economy not just as an industry, but as a *strategic necessity* for national competitiveness.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Strategic Framing**. This opening paragraph acts as a "Thesis Statement" for the entire chapter. It elevates the topic from a technical economic concept to a national political imperative, setting a serious and high-stakes tone for the learner.
+    * `content_structure`: Premise (Digital Economy importance) -> Consequence (High-Quality Development) -> Ultimate Goal (Modernization).
 
-*   **1. 标注点**: `内涵 -> 理论逻辑 -> 重点任务 -> 政策`
-    *   **concept_clarification**: 这四个学习目标构成了一个清晰的认知层次：首先理解“是什么”（内涵），然后探究“为什么”（理论逻辑），接着明确“做什么”（重点任务），最后了解“怎么保障”（政策）。这是一个由浅入深、从理论到实践的学习框架。
+## Section: 学习目标 (Learning Objectives)
 
-#### **原文段落：14.1.1 高质量发展的内涵**
-> 党的十八届五中全会明确提出了“创新、协调、绿色、开放、共享”五大新发展理念。其中创新是引领发展的第一动力，协调是持续健康发展的内在要求，绿色是永续发展的必要条件和人民对美好生活追求的重要体现，开放是国家繁荣发展的必由之路，共享是中国特色社会主义的本质要求。新发展理念是一个系统的理论体系，回答了关于发展的目的、动力、方式、路径等一系列理论和实践问题，阐明了我们党关于发展的政治立场、价值导向、发展模式、发展道路等重大政治问题。新发展理念集中体现了中国的发展思路，发展方向和发展着力点，为中国经济长远发展提供了根本遵循。
+### [Unit ID: Obj-01]
+> 掌握数字经济赋能高质量发展的内涵；...
 
-*   **1. 标注点**: `“创新、协调、绿色、开放、共享”五大新发展理念`
-    *   **key_term_definition**: 这是理解“高质量发展”的钥匙。它不只是追求经济增速，而是五个维度全面、系统地发展。
-*   **2. 标注点**: `系统的理论体系`
-    *   **critical_insight**: 强调了“五大发展理念”不是五个孤立的概念，而是一个内部逻辑严密的整体，共同服务于“高质量发展”这一目标。不能片面强调某一个而忽略其他。
-*   **3. 标注点**: `根本遵循`
-    *   **thought_provoking_question**: “根本遵循”意味着这是所有经济政策和实践的指导原则。那么，在现实中，当“创新”带来的市场扩张与“绿色”要求的环境保护产生矛盾时，应如何权衡和决策？
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Roadmap**. These four points perfectly mirror the structure of the subsequent sections (14.1, 14.2, 14.3, 14.4).
+    * `content_structure`: Definition -> Theoretical Logic -> Key Tasks -> Policy Context.
 
-### **第二页 (page_idx: 1)**
+## Section: 14.1 数字经济赋能高质量发展的内涵 (Connotation)
 
-#### **原文段落：**
-> 的、动力、方式、路径等一系列理论和实践问题，阐明了我们党关于发展的政治立场、价值导向、发展模式、发展道路等重大政治问题。新发展理念集中体现了中国的发展思路，发展方向和发展着力点，为中国经济长远发展提供了根本遵循。
+### [Unit ID: 14.1.1-01]
+> 党的十八届五中全会明确提出了“创新、协调、绿色、开放、共享”五大新发展理念...
 
-*   **1. 标注点**: `政治立场、价值导向、发展模式、发展道路`
-    *   **concept_clarification**: 这句话将经济发展理念提升到了政治高度，说明“高质量发展”不仅是经济问题，更是关系到国家道路和制度的重大政治问题。
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **新发展理念 (New Development Philosophy)**: The five concepts (Innovation, Coordination, Green, Open, Shared) proposed at the 5th Plenary Session of the 18th CPC Central Committee.
+    * `cross_reference`: Referenced repeatedly in 14.1.2 as the framework for analysis.
+* **Expert B (Pedagogue)**
+    * `concept_clarification`: Use the hand mnemonic: 5 fingers for 5 concepts. Thumb (Innovation - First Driver), Index (Coordination - Balance), Middle (Green - Sustainability), Ring (Open - Connection), Pinky (Shared - Equity).
+* **Expert C (Critical Thinker)**
+    * `critical_insight`: Why these five? They address specific "pain points" of China's previous growth model (e.g., pollution -> Green; wealth gap -> Shared; regional disparity -> Coordination).
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Foundation Laying**. Before discussing the *Digital Economy*, the author must define the *target* (High-Quality Development). This paragraph establishes the "Rubric" or "Criteria" against which the Digital Economy will be evaluated.
 
-#### **原文段落：**
-> 党的十九大提出，中国经济已由高速增长阶段转向高质量发展阶段。这是党中央对中国现阶段经济发展阶段的判断，也是对我国未来经济社会发展提出的新目标和新要求。习近平总书记在党的二十大报告中强调：“高质量发展是全面建设社会主义现代化国家的首要任务。”发展是党执政兴国的第一要务。没有坚实的物质技术基础，就不可能全面建成社会主义现代化强国。党的二十大报告对我国新时代新征程推动高质量发展做出了一系列战略部署——构建高水平社会主义市场经济体制，建设现代化产业体系，全面推进乡村振兴，促进区域协调发展，推进高水平对外开放。党的二十大报告重点指出，要坚持以推动高质量发展为主题，把实施扩大内需战略同深化供给侧结构性改革有机结合起来，增强国内大循环内生动力和可靠性，提升国际循环质量和水平，加快建设现代化经济体系，着力提高全要素生产率，着力提升产业链供应链韧性和安全水平，着力推进城乡融合和区域协调发展，推动经济实现质的有效提升和量的合理增长。
+### [Unit ID: 14.1.1-02]
+> 党的十九大提出，中国经济已由高速增长阶段转向高质量发展阶段...
 
-*   **1. 标注点**: `高速增长阶段转向高质量发展阶段`
-    *   **key_term_definition**: 这是对中国经济发展历史方位的重大判断，意味着发展模式的根本性转变，从追求“量”的扩张转向追求“质”的提升。
-*   **2. 标注点**: `首要任务`
-    *   **critical_insight**: 将“高质量发展”定位为“首要任务”，凸显了其在国家战略全局中的核心地位，是解决一切问题的前提和基础。
-*   **3. 标注点**: `实施扩大内需战略同深化供给侧结构性改革有机结合`
-    *   **real_world_example**: 比如，通过数字化改造传统制造业（供给侧改革），生产出更符合国内消费者需求的智能家电（扩大内需），这就是二者的结合。电商平台通过大数据分析用户偏好，反向指导生产，也是一个典型案例。
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **全要素生产率 (Total Factor Productivity - TFP)**: A measure of economic efficiency that accounts for effects in total output not caused by traditionally measured inputs of labor and capital (often a proxy for technology/innovation).
+    * `key_term_definition`: **供给侧结构性改革 (Supply-side Structural Reform)**: Economic policy focusing on improving the quality and efficiency of the supply system (production) rather than just stimulating demand.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Contextualization & Urgency**. Moves from the "Concept" (Para 1) to the "Historical Stage" (Para 2). It answers "Why now?" – because the growth phase has fundamentally shifted from quantity to quality.
+    * `content_structure`: Historical Shift (19th Congress) -> Current Priority (20th Congress) -> Strategic Deployment (Specific tasks like TFP, supply chains).
 
-#### **原文段落：**
-> 高质量发展是对经济社会发展方方面面的总要求，包括发展理念高质量，发展动力高质量、经济结构、供给体系高质量，社会保障支持体系高质量，以及综合效益高质量等方面其基本要求是：生产要素投入少、资源配置效率高、资源环境成本低、经济社会效益好。高质量发展的最终目的是以经济高质量发展带动整个社会平稳和谐，更好地实现人民的利益、愿望和要求，更好地满足人民日益增长的美好生活需要，给人民带来更多获得感、幸福感、安全感，产生更大福利效应。
+### [Unit ID: 14.1.1-03]
+> 高质量发展是对经济社会发展方方面面的总要求...
 
-*   **1. 标注点**: `生产要素投入少、资源配置效率高、资源环境成本低、经济社会效益好`
-    *   **concept_clarification**: 这是对“高质量”操作层面的定义，可以简化为“两高两低一好”：高效率、高效益、低投入、低成本。
-*   **2. 标注点**: `最终目的`
-    *   **critical_insight**: 明确了高质量发展的最终落脚点是“人民”，而非数据增长本身。经济发展是手段，人民的福祉是目的。这体现了“以人民为中心”的发展思想。
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **基本要求 (Basic Requirements)**: Low input, high efficiency, low cost, good benefit.
+* **Expert B (Pedagogue)**
+    * `real_world_example`: Compare "High Speed" to a fast-food chain (scale, speed, standardized). Compare "High Quality" to a Michelin star restaurant (experience, sustainability, health, precision).
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Definition Synthesis**. After establishing the political context, this paragraph provides the concrete *economic* definition of High-Quality Development. It bridges the gap between political slogans and economic metrics (efficiency, cost, benefit).
 
-#### **原文段落：14.1.2 数字经济赋能经济高质量发展的要义**
-> 要注重数字经济高质量发展，应注重提升技术创新能力。创新是数字经济高质量发展的第一动力，而数字经济本身就是新技术革命的产物，它通过知识溢出、数据共享等优势营造创新氛围，推进核心技术的研发，加快创新成果转换，从创新条件、过程、结果三个维度赋能高质量发展。
+### [Unit ID: 14.1.1-04]
+> 数字经济作为当今时代新一轮科学技术革命和产业变革的重要组成部分...
 
-*   **1. 标注点**: `创新条件、过程、结果三个维度`
-    *   **concept_clarification**: 作者将数字经济对创新的赋能分解为三个阶段：创造更好的创新环境（条件）、加速研发本身（过程）、促进创新成果的应用（结果），形成了一个完整的逻辑链条。
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **去物质化 (Dematerialization)**: The reduction in the quantity of materials required to serve economic functions (e.g., eBooks vs. paper books).
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **The Pivot/Bridge**. This is the critical connector paragraph. It explicitly links Subject A (Digital Economy attributes) to Subject B (New Development Concepts). It asserts *compatibility* ("契合"), setting up the structure for Section 14.1.2.
 
-#### **原文段落：**
-> 从创新条件来看，数字经济可以营造浓厚的创新氛围，为激发创新活力、增强创新动力创造良好条件。在数字经济背景下，创新发展理念不断被强化，创新氛围不断被增强，创新热情不断被激发，由此产生持续创新行为，形成良性循环。在整个循环中，尊重人才、尊重知识、尊重创造的意识不断发展，倒逼人才培养机制、知识产权保护体系改革，使已有的创新条件得到改善，为高质量发展提供了前提条件。
+## Section: 14.1.2 数字经济赋能经济高质量发展的要义 (Key Essence)
 
-*   **1. 标注点**: `倒逼人才培养机制、知识产权保护体系改革`
-    *   **critical_insight**: 指出了数字经济发展不仅是技术问题，还会反作用于上层建筑，推动制度和政策的变革。例如，对数据产权、算法专利的保护需求，催生了新的法律法规。
+### [Unit ID: 14.1.2-(1)-Intro]
+> 要注重数字经济高质量发展，应注重提升技术创新能力...
 
-### **第三页 (page_idx: 2)**
+* **Expert B (Pedagogue)**
+    * `concept_clarification`: **Innovation as the Engine**. If High-Quality Development is the car, Innovation is the engine. Digital Economy upgrades this engine to a "Turbo" version.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Thesis for Subsection (1)**. Identifies "Innovation" as the first and most critical link. It previews the three dimensions of analysis: Condition, Process, and Result.
 
-#### **原文段落：**
-> 突破量子通信等关键技术奠定了基础，有利于解决“卡脖子”技术难题，增强自主创新能力，牢牢把握发展的主动权。
+### [Unit ID: 14.1.2-(1)-Condition]
+> 从创新条件来看，数字经济可以营造浓厚的创新氛围...
 
-*   **1. 标注点**: `“卡脖子”技术难题`
-    *   **real_world_example**: 最典型的例子就是高端芯片制造。美国对中国的芯片技术封锁，就是一个“卡脖子”问题。发展自主的芯片设计软件、光刻机等，就是为了解决这个难题。
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **倒逼机制 (Forcing Mechanism)**: A mechanism where pressure from one aspect (e.g., market demand or new tech) forces reform or improvement in another (e.g., education or policy).
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Dimension 1: Environment**. Focuses on the *soft* factors (atmosphere, culture, mechanism) that make innovation possible.
 
-#### **原文段落：(2）数字经济与协调的关系。**
-> 数字经济高质量发展应践行协调发展理念。协调既强调发展的整体效能，又注重平衡与可持续发展。其要求数字经济业态必须有机融合发展手段与发展目标的双重属性，统筹兼顾、补齐短板，实现数字经济发展的整体平衡与动态平衡。数字经济凭借其强创新性、强渗透性、强融合性、强参与性等特性，既能提升经济发展韧性与创新能力，又能催生新业态、打造新动力、培育新动能，缓解省市、城乡发展中的不平衡问题，进而赋能经济高质量发展。
+### [Unit ID: 14.1.2-(1)-Process]
+> 从创新过程来看，数字经济可以推动核心技术的研发...
 
-*   **1. 标注点**: `缓解省市、城乡发展中的不平衡问题`
-    *   **thought_provoking_question**: 数字经济在理论上可以通过电商、远程办公等方式弥合城乡差距，但现实中是否也可能因为“数字鸿沟”（数字技能和基础设施的差距）而加剧这种不平衡？如何避免“数字马太效应”？
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **“卡脖子”技术 ("Chokehold" Technologies)**: Key technologies dominated by foreign powers that, if withheld, would paralyze Chinese industry (e.g., high-end chips).
+* **Expert C (Critical Thinker)**
+    * `critical_insight`: The text explicitly links economic innovation to *national security* (autonomous control), reflecting the current geopolitical tension regarding tech sovereignty.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Dimension 2: Action**. Focuses on the *hard* execution of R&D. It moves from "atmosphere" to "lab work" (chips, algorithms).
 
-#### **原文段落：**
-> 第一，数字经济可以赋能要素资源合理有效配置，促进区域协调发展。数字经济通过减少信息不对称，畅通生产、分配、流通、消费等环节，发挥资源配置与调节效应，实现包含数据在内的各类生产要素的自由流动与高效配置，对激发社会创造力、促进经济高质量发展至关重要。首先，数字经济加速了各类生产要素的自由流动。数字经济通过降低要素市场化配置成本，打破创新要素的流动壁垒，为欠发达地区的市场主体机会均等地获取生产要素创造了条件，同时也提升了欠发达地区流出要素的收益率。其次，数字经济发展引致的数据集聚终将促进区域协调发展。区域发展遵循“集聚一扩散一平衡”的客观动态演化逻辑，数据集聚会在短期内拉大区域间的发展差距。但是，随着集聚饱和度的提高，数字经济开始由发达地区逐渐向欠发达地区辐射，通过地区间的合作交流与资源共享机制，最终推动区域协调发展。
+### [Unit ID: 14.1.2-(1)-Result]
+> 从创新结果来看，数字经济可以加快创新成果转换...
 
-*   **1. 标注点**: `“集聚一扩散一平衡”的客观动态演化逻辑`
-    *   **concept_clarification**: 这是一个经典的区域经济学模型。可以理解为：早期，资源（数据）会向优势地区集中（如杭州的电商），导致差距拉大（集聚）；当优势地区饱和或成本升高后，产业和技术会向周边或成本更低的地区转移（扩散），最终达到一个新的、更高水平的平衡。
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **产学研 (Industry-University-Research)**: Collaborative cooperation between enterprises, universities, and research institutes.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Dimension 3: Output**. Completes the cycle. Environment -> R&D Process -> Commercialization/Result.
 
-#### **原文段落：**
-> 第二，数字经济可以通过助力产业结构优化升级，促进区域协调发展。实现产业结构升级是新时代经济高质量发展的必然要求。一方面，数字经济具有强创新性、强渗透性、强融合性、强参与性等特性，可以提升产品设计、生产、销售、应用等产业链各环节的效率。数字经济与三次产业的深度融合加快了产业数字化转型进度，由此衍生出新技术、新产品、新模式新业态，可以进一步优化传统产业空间布局与资源配置，利用数据资源实现全产业链的互联互通、共建共享，促进区域产业均衡发展。另一方面，产业结构优化会呈现出地区集聚的特征，新理念和新技术的广泛应用会借助市场主体的交流、模仿、集成创新等途径，在优化本地区产业结构的同时，通过对外部空间的渗透溢出效应，推动其他地区产业结构逐步优化。
+### [Unit ID: 14.1.2-(2)-Intro]
+> 数字经济高质量发展应践行协调发展理念...
 
-*   **1. 标注点**: `渗透溢出效应`
-    *   **real_world_example**: 比如，上海的汽车制造业高度数字化，其先进的管理经验、供应链体系会通过人员流动、合作项目等方式，逐渐被安徽、江苏等地的相关企业学习和采纳，从而带动整个长三角地区的汽车产业升级。
+* **Expert B (Pedagogue)**
+    * `concept_clarification`: **Coordination as the Balance**. Like walking on a tightrope, you need a balancing pole. Digital Economy acts as that pole, adjusting weight between regions (cities vs. villages).
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Thesis for Subsection (2)**. Introduces the "Coordination" concept and lists the specific imbalances it addresses: Regional (Province/City) and Urban-Rural.
 
-### **第四页 (page_idx: 3)**
+### [Unit ID: 14.1.2-(2)-Point 1]
+> 第一，数字经济可以赋能要素资源合理有效配置，促进区域协调发展...
 
-#### **原文段落：(3) 数字经济与绿色的关系。**
-> 数字经济高质量发展应提倡绿色发展理念。绿色是数字经济高质量发展的底色，数字经济必须凭借其科技与技术含量高的特点，通过释放数据价值提高效率、通过变革技术路径减少排放、通过协同合作治理污染，推进事前、事中、事后的绿色规划，真正处理好发展与绿色的关系，契合绿色发展理念。
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **信息不对称 (Information Asymmetry)**: A situation where one party has more or better information than the other. Digital economy reduces this.
+    * `key_term_definition`: **集聚—扩散—平衡 (Agglomeration-Diffusion-Balance)**: The economic theory that growth first clusters (increasing inequality) then spills over (reducing inequality).
+* **Expert C (Critical Thinker)**
+    * `critical_insight`: The text admits a potential *negative* short-term effect ("widening gap in the short term due to agglomeration") before promising a long-term benefit ("diffusion"). This is a nuanced economic argument, not just blind optimism.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Mechanism Analysis: Resource Flow**. Argues that *data* flows faster than physical goods, allowing underdeveloped regions to access resources without physical proximity.
 
-*   **1. 标注点**: `底色`
-    *   **critical_insight**: 用“底色”一词，形象地说明了绿色发展是数字经济的内在要求和基础属性，而不是一个可有可无的附加项。发展数字经济本身就应该朝着更环保、更可持续的方向。
-*   **2. 标注点**: `事前、事中、事后`
-    *   **concept_clarification**: 这体现了全生命周期的绿色管理理念。事前（规划阶段就考虑环保）、事中（生产过程节能减排）、事后（污染治理和循环利用）。
+### [Unit ID: 14.1.2-(2)-Point 2]
+> 第二，数字经济可以通过助力产业结构优化升级...
 
-#### **原文段落：(4) 数字经济与开放的关系。**
-> 要实现数字经济高质量发展，应实行开放战略。开放是数字经济高质量发展的必由之路，强调内外联动问题。数字经济推进数字技术脱虚向实，提供真正的产品与服务，并不断深化国际合作，形成全方位开放的新格局。
+* **Expert B (Pedagogue)**
+    * `real_world_example`: A farmer in a remote village selling via TikTok (Douyin). This is "industrial optimization" (agriculture -> e-commerce service) helping a backward region.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Mechanism Analysis: Industrial Structure**. Focuses on how *industries* themselves change and spread across regions.
 
-*   **1. 标注点**: `脱虚向实`
-    *   **key_term_definition**: 指的是数字技术不能停留在概念或纯线上模式，必须与实体经济深度融合，赋能制造业、农业、服务业等，创造出实实在在的价值。这是近年来国家强调的重点方向。
+### [Unit ID: 14.1.2-(2)-Point 3]
+> 第三，数字经济可以通过加速消费市场提质扩容...
 
-#### **原文段落：**
-> 第三，数字经济有利于加快构建更高水平的全方位开放格局。数字经济已经成为全球经济发展的重要推动力，它通过有效促进人与人之间的信息共享和智慧交流，提高人类社会的技术竞争力和创新能力，改变了世界经济社会格局。目前，中国正积极参与构建全球数字经济多边治理机制，以及数字领域国际规则和技术标准制定，围绕数据跨境流动、市场准入、反垄断、数据隐私保护等重大问题探索建立治理规则，搭建高质量数字经济交流平台，促进中国数字经济在更大范围、更宽领域、更深层次实施高水平对外开放。
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **时空限制 (Time-Space Constraints)**: Physical barriers of distance and operating hours. E-commerce breaks these.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Mechanism Analysis: Market/Consumption**. Focuses on the *demand side*. Connecting rural sellers to urban buyers, and vice versa.
 
-*   **1. 标注点**: `数据跨境流动、市场准入、反垄断、数据隐私保护`
-    *   **critical_insight**: 这列出了当前全球数字经济治理的核心议题和博弈焦点。各国围绕这些问题制定规则，实际上是在争夺未来数字世界的话语权和主导权。
+### [Unit ID: 14.1.2-(3)-Intro]
+> 数字经济高质量发展应提倡绿色发展理念...
 
-### **第五页 (page_idx: 4)**
+* **Expert B (Pedagogue)**
+    * `concept_clarification`: **Green as the Base Color**. "Green" isn't just a feature; it's the canvas. Digital tech (paperless, optimized logistics) inherently reduces the carbon footprint.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Thesis for Subsection (3)**. Sets the scope: Efficiency (Doing more with less), Technology (Clean tech), and Governance (Monitoring pollution).
 
-#### **原文段落：(5) 数字经济与共享的关系。**
-> 要实现数字经济高质量发展，应明确共享发展目标，强调社会公平正义。数字经济不仅提高了经济发展的稳定性与持续性，而且提高了其普惠性，可以让更多的人参与发展的过程，并推动发展成果共享，真正落实全民共享、全面共享、共建共享和渐进共享。
+### [Unit ID: 14.1.2-(3)-Point 1]
+> 第一，数字经济通过提高要素效率，推动资源集约化...
 
-*   **1. 标注点**: `全民共享、全面共享、共建共享、渐进共享`
-    *   **concept_clarification**: 这是对“共享”理念的四个维度拆解：覆盖范围（所有人）、内容领域（所有方面）、参与方式（共同建设）和实现过程（逐步推进）。
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **资源集约化 (Resource Intensification/Conservation)**: Maximizing output per unit of input, reducing waste.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Mechanism: Efficiency**. The logic is simple: Higher efficiency = Less waste = Green.
 
-#### **原文段落：14.2.1 数字经济通过数据要素赋能来促进生产要素优化配置**
-> 在数字经济时代，数据成为核心生产要素，对经济增长要素理论进行了扩充。数据要素即数字化的知识和信息，它具备非竞争性、易复制性等特性。数据要素与传统生产要素的渗透融合，能够促进知识共享、深化社会分工、延展经济时空、优化现存的要素配置，进而带动其他要素效率提升，实现价值创造，使传统要素呈现边际报酬递增规律。具体表现如下：
+### [Unit ID: 14.1.2-(3)-Point 2]
+> 第二，数字技术的推广和应用可以直接推动节能减排...
 
-*   **1. 标注点**: `数据成为核心生产要素`
-    *   **key_term_definition**: 这是数字经济区别于传统经济的根本特征。传统经济学讲的生产要素是劳动、资本、土地、技术，现在“数据”被正式增列为第五大生产要素。
-*   **2. 标注点**: `边际报酬递增`
-    *   **critical_insight**: 传统要素（如土地）符合边际报酬递减规律（一块地越种产量增加越少）。而数据作为要素，其价值会随着使用者的增多而指数级增长（一个社交网络人越多越好玩），这是数字经济能够实现爆发式增长的微观经济学基础。
+* **Expert B (Pedagogue)**
+    * `real_world_example`: Smart grids automatically dimming streetlights when no cars are passing.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Mechanism: Direct Tech Intervention**. Unlike Point 1 (Systemic Efficiency), this point focuses on *specific technologies* that directly cut emissions (e.g., zero-emission processes).
 
-#### **原文段落：**
-> 第一，增加新的数据要素投入，改变要素组合方式。在传统经济增长理论中，生产要素主要包括资本、劳动和自然资源，但已有研究证明，自然资源并不是经济增长的必要条件。随着人工智能等技术在经济中的广泛应用，要素来源更加多元化、复杂化和高级化，以数据要素为核心的新生产要素不断形成并补充到生产函数中。尤其是数据成为新的核心生产要素后，凭借其易复制性、零边际成本等特性，克服了传统生产要素的稀缺性和排他性，突破了传统资源约束与增长极限。因此，数字经济时代的增长核算框架中应当加入数据，形成 Y = AF(D, K, L) 的生产函数，其中 D 为数据要素。
+### [Unit ID: 14.1.2-(3)-Point 3]
+> 第三，数字经济发展有助于形成多元协同的治理格局...
 
-*   **1. 标注点**: `Y = AF(D, K, L)`
-    *   **cross_reference**: 这是对传统柯布-道格拉斯生产函数 `Y = AF(K, L)` 的修正。通过明确地将数据（D）加入生产函数，从模型上确立了数据作为核心生产要素的地位。
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **多元协同治理 (Multi-agent Collaborative Governance)**: Government, companies, and public working together using data to monitor and fix pollution.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Mechanism: Supervision**. Focuses on using data to *watch* and *manage* pollution (Remote sensing, monitoring).
+
+### [Unit ID: 14.1.2-(4)-Intro]
+> 要实现数字经济高质量发展，应实行开放战略...
+
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Thesis for Subsection (4)**. Focuses on the "Inside-Outside" connection. Two directions: "Going Global" (Out) and "Bringing In" (In).
+
+### [Unit ID: 14.1.2-(4)-Point 1]
+> 第一，数字经济为“走出去”战略提供具有核心竞争力的数字产品与服务...
+
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **数实融合 (Integration of Digital and Real Economies)**: Digital tech integrated into physical industries (manufacturing, etc.).
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Direction: Outward**. Exporting Chinese tech and digital services.
+
+### [Unit ID: 14.1.2-(4)-Point 2]
+> 第二，数字经济有助于打造国际合作新模式，吸引外资，贯彻“引进来”战略...
+
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Direction: Inward**. Attracting foreign capital and talent via digital platforms and reputation.
+
+### [Unit ID: 14.1.2-(4)-Point 3]
+> 第三，数字经济有利于加快构建更高水平的全方位开放格局...
+
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **全球数字经济多边治理机制 (Global Multilateral Governance Mechanism for Digital Economy)**: Rules for data flow, privacy, and tax across borders (e.g., WTO e-commerce rules).
+* **Expert C (Critical Thinker)**
+    * `critical_insight`: Moves beyond trade to *Rule Setting*. China wants to not just play the game, but help write the rules (standards, protocols).
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Direction: Systemic/Global**. Ascends from trade (goods/money) to *Governance* (rules/standards).
+
+### [Unit ID: 14.1.2-(5)-Intro]
+> 要实现数字经济高质量发展，应明确共享发展目标...
+
+* **Expert B (Pedagogue)**
+    * `concept_clarification`: **Shared as the Goal**. The cake must be cut fairly. Digital economy makes the cake bigger *and* helps cut it better.
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Thesis for Subsection (5)**. Outlines the four dimensions of Sharing: All People (Universal), All Aspects (Comprehensive), Co-construction (Participatory), and Gradual (Progressive).
+
+### [Unit ID: 14.1.2-(5)-Point 1]
+> 第一，全民共享。数字经济可以推动平台等数字基础设施的发展...
+
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Scope: Who?** Everyone. Focuses on education and employment access.
+
+### [Unit ID: 14.1.2-(5)-Point 2]
+> 第二，全面共享。数字经济的渗透性较强...
+
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Scope: What?** Everything. Material + Cultural + Medical + Environmental.
+
+### [Unit ID: 14.1.2-(5)-Point 3]
+> 第三，共建共享。数字经济使更多的人参与到社会建设中来...
+
+* **Expert A (Terminologist)**
+    * `key_term_definition`: **人尽其才 (Making the best use of talent)**: Allocating labor where it is most productive (e.g., Gig economy).
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Scope: How?** Participation. It's not just receiving welfare; it's contributing to creation (Gig economy, crowdsourcing).
+
+### [Unit ID: 14.1.2-(5)-Point 4]
+> 第四，渐进共享。数字经济使共享从低级发展到高级...
+
+* **Expert D (Writing Expert)**
+    * `writing_logic`: **Scope: When/Process.** Acknowledges that sharing is a *process* over time, not an instant switch.
